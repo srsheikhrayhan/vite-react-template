@@ -8,7 +8,7 @@ o<!doctype html>
 	</head>
 
 	<body>
-		<div></div>
+		<div>Hello World</div>
 		<script type="module" src="/src/react-app/main.tsx"></script>
 	</body>
 </html>
